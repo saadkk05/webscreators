@@ -1,0 +1,36 @@
+.carousel-inner img
+{
+width: 100%;
+height: 100%;
+}
+.carousel-inner,h5
+{
+color: #28a745;
+}
+.font
+{
+    font-weight: bold;
+    font-size: 12px;
+   text-shadow: rgb(0, 0, 0) 2px 2px 2px;
+   
+}
+.fn {
+    font-weight: 600;
+    line-height: 2.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.prt
+{
+    text-align: justify;
+}
+
+
+#box
+{
+    box-shadow: 5px 10px 5px grey;
+}
+
+.ab
+{
+    background-color: snow;
+}
